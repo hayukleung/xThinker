@@ -1,0 +1,5 @@
+.deploy*/
+.idea/
+node_modules/
+public/
+db.json
