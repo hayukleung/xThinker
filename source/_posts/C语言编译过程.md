@@ -1,8 +1,10 @@
 ---
 title: C语言编译过程
-date: 2016-04-04 21:36:13
+date: 2012-11-03 21:36:13
 tags: c
 ---
+[原文地址](http://www.cnblogs.com/liangxiaxu/archive/2012/11/03/2752207.html)
+
 ```
 [hayuk@localhost qinghua]$ touch hello.c 
 [hayuk@localhost qinghua]$ ls 

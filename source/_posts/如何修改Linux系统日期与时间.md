@@ -1,8 +1,10 @@
 ---
 title: 如何修改Linux系统日期与时间
-date: 2016-04-04 22:02:06
+date: 2012-11-03 22:02:06
 tags: linux
 ---
+[原文地址](http://www.cnblogs.com/liangxiaxu/archive/2012/11/03/2752254.html)
+
 ## 修改时区
 ```
 cp /usr/share/zoneinfo/UTC /etc/localtime

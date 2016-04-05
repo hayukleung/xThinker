@@ -1,8 +1,9 @@
 ---
 title: 标准C的四个常用宏定义
-date: 2016-04-04 21:58:16
+date: 2012-11-03 21:58:16
 tags: c
 ---
+[原文地址](http://www.cnblogs.com/liangxiaxu/archive/2012/11/03/2752232.html)
 ## 四个常用宏：
 
 ```
