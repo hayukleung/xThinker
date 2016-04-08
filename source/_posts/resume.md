@@ -4,22 +4,22 @@ date: 2016-04-03 21:51:26
 tags: resume
 ---
 
-###个人信息
+### 个人信息
 ![avatar|center|100x0](http://hayukleung.duapp.com/wp-hayukleung/avatar/avatar_qq_706x706.png)
 
 <center>**略**</center>
 >[我的GitHub地址](https://github.com/hayukleung) & [我的博客地址](http://hayukleung.github.io/)
 
 ***
-###教育经历
+### 教育经历
 - **`2008-09`~`2012-06`** 略
 
 ***
-###工作经历
+### 工作经历
 - **`2012-07至今`** 略
 
 ***
-###项目经验
+### 项目经验
 - **`2013-09`~`2014-04`** 企业即时通讯软件EC Android端（内部应用）
 	1. 聊天
 		1.1 单人、多人（群组及讨论组）、广播
@@ -69,7 +69,7 @@ tags: resume
 	>[桩主APP应用宝下载地址](http://android.myapp.com/myapp/detail.htm?apkName=com.chargercloud.zhuangzhu)
 
 ***
-###GitHub作品
+### GitHub作品
 1. [App](https://github.com/hayukleung/app)
 	- 1.1 [小白鼠](https://github.com/hayukleung/app/tree/master/appMice)
 		-- 1.1.1 [Android6.0权限管理](https://github.com/hayukleung/app/tree/master/appMice/src/main/java/com/hayukleung/permissions)
